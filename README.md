@@ -9,7 +9,9 @@ This messaging Web Application is created using **HTML, CSS, PHP, MySQL & JavaSc
 - - -
 
 <br />
+
 # PREVIEW:
+
 <br />
 
  ![](/Readme_img/Untitled.png)
