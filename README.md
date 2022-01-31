@@ -14,6 +14,8 @@ Using basic HTML and CSS the UI is created to be ease to use and functional
 
 ## Backend
 <br />
-Using MySQL to create a database for storing user data and chat messages for quick access
+Using MySQL to create a database for storing user data and chat messages for quick access.
+<br />
+
 - - -
 
