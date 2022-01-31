@@ -7,11 +7,11 @@ A messaging Web Application or platform that enables users to instant message an
 This messaging Web Application is created using **HTML, CSS, PHP, MySQL & JavaScript**. The app uses **XAMPP** to run offline and store all user signup data on a local web server on your computer.
 - - -
 # Implementation details:
-##Frontend
+## Frontend
 <br />
 Using basic HTML and CSS the UI is created to be ease to use and functional
 <br />
-##Frontend
+## Frontend
 <br />
 Using MySQL to create a database for storing user data and chat messages for quick access
 - - -
