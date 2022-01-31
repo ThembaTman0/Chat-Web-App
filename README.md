@@ -8,7 +8,9 @@ This messaging Web Application is created using **HTML, CSS, PHP, MySQL & JavaSc
 - - -
 # PREVIEW:
 <br />
+
  ![](/Readme_img/Untitled.png)
+
 - - -
 # FEATURES:
 * Instant messaging
