@@ -11,6 +11,7 @@ This messaging Web Application is created using **HTML, CSS, PHP, MySQL & JavaSc
 <br />
 Using basic HTML and CSS the UI is created to be ease to use and functional
 <br />
+
 ## Backend
 <br />
 Using MySQL to create a database for storing user data and chat messages for quick access
