@@ -1,4 +1,4 @@
-# Chat-Web-App!
+# ABOUT Chat-Web-App
 
 ![](/Readme_img/Untitled.png)
 <br />
@@ -6,6 +6,13 @@ A messaging Web Application or platform that enables users to instant message an
 <br />
 This messaging Web Application is created using **HTML, CSS, PHP, MySQL & JavaScript**. The app uses **XAMPP** to run offline and store all user signup data on a local web server on your computer.
 - - -
+
+# FEATURES:
+* Instant messaging
+* User Login and Sign Up
+* User can upload profile picture
+
+- - - 
 # Implementation details:
 ## Frontend
 <br />
